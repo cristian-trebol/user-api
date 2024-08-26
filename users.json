@@ -1,0 +1,16 @@
+[
+    {
+        "username": "Jane Doe",
+        "email": "jane@example.com",
+        "is_active": true,
+        "created_at": "2024-08-26T13:58:52.419085",
+        "role": "admin"
+    },
+    {
+        "username": "Manolo",
+        "email": "manolo@example.com",
+        "is_active": true,
+        "created_at": "2024-08-26T14:03:02.856575",
+        "role": "admin"
+    }
+]
